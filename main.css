@@ -2,7 +2,6 @@
 PANDA CSS COPYRIGHT LUKETHEDUKE#7313
 */
 
-
 :root {
     --menu-girl: url(https://luketheduke.xyz/assets/p1/menu.png);
     --game-girl: url(https://luketheduke.xyz/assets/p1/game.png);
@@ -591,7 +590,7 @@ input:checked+.sliderSml:before {
     height: 440px;
     bottom: 100%;
     left: 50%;
-    transform: scaleX(1) translateX(50%);
+    transform: scaleX(1);
     filter: saturate(0);
     background-size: cover;
 }
